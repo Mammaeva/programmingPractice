@@ -1,0 +1,15 @@
+D:\Обучение\Git\Reposit\Exampl1\DZ4\bin\Debug\net6.0\DZ4.exe
+D:\Обучение\Git\Reposit\Exampl1\DZ4\bin\Debug\net6.0\DZ4.deps.json
+D:\Обучение\Git\Reposit\Exampl1\DZ4\bin\Debug\net6.0\DZ4.runtimeconfig.json
+D:\Обучение\Git\Reposit\Exampl1\DZ4\bin\Debug\net6.0\DZ4.dll
+D:\Обучение\Git\Reposit\Exampl1\DZ4\bin\Debug\net6.0\DZ4.pdb
+D:\Обучение\Git\Reposit\Exampl1\DZ4\obj\Debug\net6.0\DZ4.csproj.AssemblyReference.cache
+D:\Обучение\Git\Reposit\Exampl1\DZ4\obj\Debug\net6.0\DZ4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Git\Reposit\Exampl1\DZ4\obj\Debug\net6.0\DZ4.AssemblyInfoInputs.cache
+D:\Обучение\Git\Reposit\Exampl1\DZ4\obj\Debug\net6.0\DZ4.AssemblyInfo.cs
+D:\Обучение\Git\Reposit\Exampl1\DZ4\obj\Debug\net6.0\DZ4.csproj.CoreCompileInputs.cache
+D:\Обучение\Git\Reposit\Exampl1\DZ4\obj\Debug\net6.0\DZ4.dll
+D:\Обучение\Git\Reposit\Exampl1\DZ4\obj\Debug\net6.0\refint\DZ4.dll
+D:\Обучение\Git\Reposit\Exampl1\DZ4\obj\Debug\net6.0\DZ4.pdb
+D:\Обучение\Git\Reposit\Exampl1\DZ4\obj\Debug\net6.0\DZ4.genruntimeconfig.cache
+D:\Обучение\Git\Reposit\Exampl1\DZ4\obj\Debug\net6.0\ref\DZ4.dll
