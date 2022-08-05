@@ -1,0 +1,15 @@
+D:\Обучение\Git\Reposit\Exampl1\DZ2\bin\Debug\net6.0\DZ2.exe
+D:\Обучение\Git\Reposit\Exampl1\DZ2\bin\Debug\net6.0\DZ2.deps.json
+D:\Обучение\Git\Reposit\Exampl1\DZ2\bin\Debug\net6.0\DZ2.runtimeconfig.json
+D:\Обучение\Git\Reposit\Exampl1\DZ2\bin\Debug\net6.0\DZ2.dll
+D:\Обучение\Git\Reposit\Exampl1\DZ2\bin\Debug\net6.0\DZ2.pdb
+D:\Обучение\Git\Reposit\Exampl1\DZ2\obj\Debug\net6.0\DZ2.csproj.AssemblyReference.cache
+D:\Обучение\Git\Reposit\Exampl1\DZ2\obj\Debug\net6.0\DZ2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Git\Reposit\Exampl1\DZ2\obj\Debug\net6.0\DZ2.AssemblyInfoInputs.cache
+D:\Обучение\Git\Reposit\Exampl1\DZ2\obj\Debug\net6.0\DZ2.AssemblyInfo.cs
+D:\Обучение\Git\Reposit\Exampl1\DZ2\obj\Debug\net6.0\DZ2.csproj.CoreCompileInputs.cache
+D:\Обучение\Git\Reposit\Exampl1\DZ2\obj\Debug\net6.0\DZ2.dll
+D:\Обучение\Git\Reposit\Exampl1\DZ2\obj\Debug\net6.0\refint\DZ2.dll
+D:\Обучение\Git\Reposit\Exampl1\DZ2\obj\Debug\net6.0\DZ2.pdb
+D:\Обучение\Git\Reposit\Exampl1\DZ2\obj\Debug\net6.0\DZ2.genruntimeconfig.cache
+D:\Обучение\Git\Reposit\Exampl1\DZ2\obj\Debug\net6.0\ref\DZ2.dll
